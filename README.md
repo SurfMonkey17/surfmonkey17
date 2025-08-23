@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surfmonkey17&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surfmonkey17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 <p align = "right"><img src="https://www.codewars.com/users/SurfMonkey17/badges/small" alt="Codewars Profile" </p>
