@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surfmonkey17&theme=tokyonight" alt="mystreak" width = 48%/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surfmonkey17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-<p align = "right"><img src="https://www.codewars.com/users/SurfMonkey17/badges/small" alt="Codewars Profile" </p>
-<p align = "right">
-  <img src="https://api.boot.dev/v1/users/public/47c7e358-2bb7-4c79-a888-2d5ba26e1f99/thumbnail" width="300px" alt="Boot.dev Profile Card" >
+<p><img src="https://www.codewars.com/users/SurfMonkey17/badges/small" alt="Codewars Profile" </p>
+<p><img src="https://api.boot.dev/v1/users/public/47c7e358-2bb7-4c79-a888-2d5ba26e1f99/thumbnail" width="300px" alt="Boot.dev Profile Card" >
 </p>
 </div>
