@@ -1,4 +1,4 @@
-#Welcome! 👋
+# Welcome! 👋
 
 I'm Sherry. Welcome to my GitHub! 
 
