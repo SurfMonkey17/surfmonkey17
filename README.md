@@ -18,5 +18,5 @@ I'm Sherry. Welcome to my GitHub!
 <p><img src="https://www.codewars.com/users/SurfMonkey17/badges/small" alt="Codewars Profile" </p>
 <p><img src="https://api.boot.dev/v1/users/public/47c7e358-2bb7-4c79-a888-2d5ba26e1f99/thumbnail" width="300px" alt="Boot.dev Profile Card" >
 </p>
-<p>![](https://komarev.com/ghpvc/?surfmonkey17&color=orange)</p>
+<p></p>
 </div>
